@@ -1,0 +1,22 @@
+[
+    {
+        "dernier_score": 76543210,
+        "meilleur_score": 76543210,
+        "nom": "soumia"
+    },
+    {
+        "dernier_score": 0,
+        "meilleur_score": 543210,
+        "nom": "asma"
+    },
+    {
+        "dernier_score": 1209876543210,
+        "meilleur_score": 1209876543210,
+        "nom": "fido"
+    },
+    {
+        "dernier_score": 0,
+        "meilleur_score": 0,
+        "nom": "macyl"
+    }
+]
